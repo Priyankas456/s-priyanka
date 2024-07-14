@@ -1,0 +1,83 @@
+Project introduction
+
+Project name: ecommerce application
+
+Application name: nopcommerce.com
+
+ecommerce
+-------------
+
+Parts of ecommerce application
+
+Frontend-users/public access through internet
+Backend-access by admin in their environment through intranet
+
+Test cases
+---------------
+
+Register account/ log in
+
+Testing First name-> Testing first name and last name using alpha and numeric characters
+Testing password -> the password with the help of alpha, numeric and special characters
+Testing email-> the email to confirm that it is filled with alpha and numeric characters
+
+
+click on availability
+---------------------------
+
+country selecting one country from dropdown
+time zone->checking all the time zones working properly or not
+password->  checking with alpha numeric characters and special characters
+Confirm password checking with alpha numeric characters and special characters
+My company primarily it should need to select only one option from drop down
+My main activity in the company is: need to select only one option from drop down
+My company’s website (if any): checking with alpha numeric characters and special characters 
+
+
+Types of testing
+-------------------
+
+1.Regression testing: Regression testing refers to a software testing technique that re-runs non-functional and functional tests to
+ ensure that a software application works as intended after any code changes, updates, revisions, improvements, or optimizations.
+
+2.Retesting: Retesting is a procedure where we need to check that particular test cases that are found with some bugs during the execution time.
+
+3.Acceptance testing: is software testing that evaluates whether a system meets its business and user requirements.
+
+
+checking store demo link in the product
+------------------------------------------------
+
+1) once clicking on admin area it should need to take into sign in form
+2) by clicking on frontend area it should need to show all the electronic products
+3) in frontend area it should need to show details about news section of ecommerce
+4) showcase, case studies, and all features options need to be clickable and need to work functional properly
+5) partners and community buttons need to work properly
+6) get start button at bottom of the page need to work properly
+
+Retesting
+--------------
+Retesting as been done properly without getting any bugs in application
+
+deployment
+----------
+
+finally if the everything is working fine without any bugs in the application then we deployed it into the market
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
