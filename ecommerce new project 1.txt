@@ -1,0 +1,201 @@
+project introduction
+
+product vs project
+
+Project name: Ecommerce application
+
+Application name: opencart.com
+
+product ecommerce application
+
+ecommerce
+-------------
+
+login to the application
+search for products/items
+add product to cart
+make the payment
+product will be delivered
+return the product
+
+
+parts of ecommerce application
+
+frontend-users/public access through internet
+backend-access by admin in their environment through intranet
+
+click on availability
+---------------------------
+
+country selecting one country from dropdown
+time zone->checking all the time zones working properly or not
+password->  checking with alpha numeric characters and special characters
+Confirm password checking with alpha numeric characters and special characters
+My company primarily it should need to select only one option from drop down
+My main activity in the company is:   need to select only one option from drop down
+My company’s website (if any): checking with alpha numeric characters and special characters 
+
+
+understanding and explore the functionality
+
+Exploratory testing
+
+Register account
+
+1.Testing first name and last name using alpha and numeric characters
+2.Testing the password with the help of alpha, numeric and special characters
+3.Testing the email to confirm that it is filled with alpha and numeric characters
+
+Functional requirements
+
+Home page-> The shops home page needs to be user friendly, while at the same time highlighting the shops products
+
+The Header-> the header will be displayed at the top of the page, on every page of the store
+
+The header as the following navigation options:
+Store logo-> clicking on this logo will direct the customer back to the home page of the store
+
+Currency block-> the customer an select which currency the stores products will be in by clicking on any of the currency icons
+
+Shopping cart-> it displays the number of items purchased and total price of the order
+
+Search box-> the customers can type in search box to search for a product within the stores product categories
+
+Links-> links the customer to the Home page, Wishlist, My Account, Shopping cart, and Checkout
+
+Telephone-> company telephone number
+
+My Account-> customer can register or login from here.
+
+The top menu-> the top menu category only displays the top parent categories of products like the header, the top menu will be 
+displayed on every page.
+
+The slideshow-> the slideshow displays several product banners of your choice by alternating the images in slideshow.
+After a certain amount of time one banner will shift to the next banner. Banners in the slideshow are useful for highlighting 
+certain products to be easily accessible by the customers.
+
+Featured products-> open cart gives you the option of featuring specific products of their choosing on their home page.
+
+The Footer-> the footer is located at the bottom of every page, not just the home page
+
+
+Test plan
+
+1.Introduction-> this test plan is for the Ecommerce application OpenCart. The objective of this testing is to ensure
+that the application meets the requirements and is free of defects.
+
+2.Test items->Ecommerce application: OpenCart
+
+3.features to be tested->
+ Register
+ Login & Logout
+ Forgot password
+ Search
+ Product compare
+ Product display page
+ Add to cart
+ Wishlist
+ Shopping cart
+ Currencies
+ Home page
+ Checkout page
+ My account page
+ Order history page
+ Download page
+ Contact us page
+ Menu options
+ Footer options
+ Category page
+
+4.Features not to be tested
+ 
+ Payment gateway will be tested
+ Automation testing is not in scope
+
+5.Test Environment
+ 
+ Operating system-> windows 11 
+ Browser-> Google Chrome, Firefox, Edge
+
+Types of testing
+-----------------------
+Smoke testing->checking basic functionality of the application
+sanity testing-> checking functionality of Registration form
+retesting-> testing the bugs in the application using jeera tool
+
+checking store demo link in the product
+------------------------------------------------
+
+1) once clicking on admin area it should need to take into sign in form
+2)by clicking on frontend area it should need to show all the electronic products
+3) in frontend area it should need to show details about news section of ecommerce
+4) showcase, case studies, and all features options need to be clickable and need to work functional properly
+5) partners and community buttons need to work properly
+6) get start button at bottom of the page need to work properly
+
+retesting
+--------------
+retesting as been done properly without getting any bugs in application
+
+deployment
+----------
+
+finally if the everything is working fine without any bugs in the application then we deployed it into the market
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
